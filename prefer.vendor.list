@@ -144,3 +144,6 @@ lib64qt5gui-x11
 
 # pkgconfig
 pkgconf
+
+# libPolly.so
+llvm-polly
