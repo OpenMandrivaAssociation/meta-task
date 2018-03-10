@@ -147,3 +147,7 @@ lib64qt5gui-x11
 
 # libPolly.so
 llvm-polly
+
+# julia
+lib64pcre2-8_0
+libpcre2-8_0
